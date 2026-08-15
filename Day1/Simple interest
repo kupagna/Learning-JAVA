@@ -1,0 +1,9 @@
+class SimpleInterest
+{
+    public static void main(String args[])
+    {
+        int P=1000,R=5,T=2;
+        int SI=(P*T*R)/100;
+        System.out.print("SI="+SI);
+    }
+}
